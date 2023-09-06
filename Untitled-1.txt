@@ -1,0 +1,5 @@
+#include <stdio.h>
+
+int main() {
+    printf(" nha tu ban CAO TRUC");
+}
